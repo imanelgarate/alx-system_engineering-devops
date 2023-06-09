@@ -1,2 +1,2 @@
-#!/bin/bush 
+#!/bin/bush  
 chmod 753 hello 
